@@ -28,6 +28,7 @@
             </div>
         </a-form-model>
         <div class="under-mask"></div>
+        <div style="position: absolute;bottom:0;left:0;width:100%;text-align:center;color:#fff"> Accelerated & hosted by 4EVERLAND </div>
     </div>
 </template>
 

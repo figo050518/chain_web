@@ -1,1 +1,1 @@
-let VUE_APP_BASE_URL = 'http://182.254.129.118:9989';
+let VUE_APP_BASE_URL = 'https://saas.peerfintech.cn';
